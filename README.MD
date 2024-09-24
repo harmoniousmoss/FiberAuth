@@ -1,4 +1,4 @@
-### basic authentication system and user role-based access control in Go, using Fiber
+### Basic authentication system and user role-based access control in Go, using Fiber
 
 This repository provides a basic setup for user authentication and management routes using the Fiber framework in Go. The app includes signup, login, email verification, user management, and various middleware to protect routes based on user roles and ownership.
 
